@@ -1,0 +1,10 @@
+Added Component: Designator=R2(RESC1608X55X30LL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-44
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=mainSchematic Member=Component R2 ERJ-3EKF1002V
+Added Member To Class: ClassName=mainSchematic Member=Component U1 STM32F103C8T6

@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Added Component: Designator=C8(CAPC1005X55X25LL05T10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GJM1555C1H200FB01D"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC1005X55X25LL05T10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GJM1555C1H200FB01D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X50X30ML20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW08051M00FKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R1-1
+Added Pin To Net: NetName=NetC8_2 Pin=U1-5
+Added Pin To Net: NetName=NetC8_2 Pin=X1-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R1-2
+Added Pin To Net: NetName=NetC9_2 Pin=U1-6
+Added Pin To Net: NetName=NetC9_2 Pin=X1-2
+Added Net: Name=NetC9_2
+Added Member To Class: ClassName=mainSchematic Member=Component C8 GJM1555C1H200FB01D
+Added Member To Class: ClassName=mainSchematic Member=Component C9 GJM1555C1H200FB01D
+Added Member To Class: ClassName=mainSchematic Member=Component R1 CRCW08051M00FKEA

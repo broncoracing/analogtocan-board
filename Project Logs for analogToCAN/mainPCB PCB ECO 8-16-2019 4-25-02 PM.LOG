@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=A2 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=3V3 Pin=U4-5
+Added Pin To Net: NetName=A1 Pin=U4-10
+Added Pin To Net: NetName=MOSI Pin=U1-28
+Added Pin To Net: NetName=MOSI Pin=U4-7
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=U1-26
+Added Pin To Net: NetName=SCK Pin=U4-6
+Added Net: Name=SCK
+Added Pin To Net: NetName=SPISS Pin=U1-25
+Added Pin To Net: NetName=SPISS Pin=U4-8
+Added Net: Name=SPISS

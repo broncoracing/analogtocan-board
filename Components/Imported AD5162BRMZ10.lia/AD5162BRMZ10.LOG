@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : AD5162BRMZ10.LibPkg
+
+Section : C:\Users\Zain\Downloads\AD5162BRMZ10\AD5162BRMZ10.lia
+    Section : PCB Library - AD5162BRMZ10.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 154
+            Warning - 1 : Skipping Token isVisible On Line 209
+            Warning - 1 : Skipping Token AD5162BRMZ10 On Line 215
+            Warning - 1 : Skipping Token attachedSymbol On Line 342
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - AD5162BRMZ10.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 158
+        EndSection
+
+        Section : Generating SCH Library - AD5162BRMZ10.SchLib
+        EndSection
+    EndSection
+EndSection
