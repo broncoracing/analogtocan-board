@@ -1,0 +1,160 @@
+Board Information Report
+Filename     : C:\Users\Zain\Documents\Altium\Projects\analogToCAN\mainPCB.PcbDoc
+Date         : 10/10/2019
+Time         : 9:34:25 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 1000milsx450mils
+    Components on board, 23
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 64
+    Connections routed, 64
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 64, 0, 123, 0, 2, 0, 0
+    GND, 0, 0, 0, 0, 0, 0, 1, 0
+    3V3, 0, 0, 0, 0, 0, 0, 1, 0
+    Bottom Layer, 0, 40, 0, 109, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 1, 0, 0, 0
+    Mechanical 4, 2, 0, 0, 98, 0, 0, 0, 0
+    Mechanical 13, 2, 0, 0, 88, 0, 0, 0, 52
+    Mechanical 15, 0, 0, 0, 128, 0, 0, 0, 0
+    Multi-Layer, 0, 8, 35, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 1, 0, 0, 0
+    Top Overlay, 4, 0, 0, 17, 26, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 2, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 3, 0, 0, 10, 30, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 18
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 35
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 104, 0
+    10mils, 0, 35
+    40.158mils, 8, 0
+count : 3
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    10mils, 35
+    20.866mils, 8
+count : 2
+
+Mid Layer Annular Ring Size, Count
+    10mils, 35
+    20.866mils, 8
+count : 2
+
+Bottom Layer Annular Ring Size, Count
+    10mils, 35
+    20.866mils, 8
+count : 2
+
+Pad Solder Mask, Count
+    4mils, 112
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 112
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 112
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 112
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 112
+count : 1
+
+Pad Relief Entries, Count
+    4, 112
+count : 1
+
+Via Solder Mask, Count
+    4mils, 35
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 35
+count : 1
+
+Track Width, Count
+    1.969mils, 86
+    3.937mils, 130
+    5mils, 206
+    6mils, 102
+    7.874mils, 23
+    10mils, 12
+    15mils, 5
+    20mils, 9
+count : 8
+
+Arc Line Width, Count
+    3.937mils, 2
+    6mils, 3
+    9.843mils, 4
+    23.622mils, 2
+count : 4
+
+Arc Radius, Count
+    4.921mils, 4
+    11.811mils, 2
+    12mils, 3
+    19.685mils, 2
+count : 4
+
+Arc Degrees, Count
+    180, 3
+    360, 8
+count : 2
+
+Text Height, Count
+    20mils, 2
+    30mils, 53
+    60mils, 3
+count : 3
+
+Text Width, Count
+    3.937mils, 1
+    10mils, 57
+count : 2
+
+Net Track Width, Count
+    4mils, 17
+    10mils, 2
+count : 2
+
+Net Via Size, Count
+    20mils, 19
+count : 1

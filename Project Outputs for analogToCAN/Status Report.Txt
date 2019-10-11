@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [analogToCAN.PrjPcb]
+   Generated File[mainPCB.TXT]
+   Generated File[mainPCB.LDP]
+   Generated File[mainPCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:36:05 PM On 10/10/2019
